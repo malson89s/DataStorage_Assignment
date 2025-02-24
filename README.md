@@ -40,8 +40,6 @@ dotnet ef database update
 ## Användning av AI-genererad kod
 En del av koden har genererats med hjälp av AI-verktyg (exempelvis ChatGPT) och har integrerats i projektet för att förbättra utvecklingsprocessen.
 
-## Observera
-Du behöver inte ladda upp din databas till GitHub enligt instruktionerna i uppgiften. Se till att din lokala databas är korrekt konfigurerad innan du kör applikationen.
 
 ## Kontakt
 För frågor, kontakta Malin på GitHub: [malson89s](https://github.com/malson89s)
